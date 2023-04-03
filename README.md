@@ -43,7 +43,7 @@ Badge [source](https://shields.io/)
 
 ## Business problem
 
-In this notebook we analyze a marketing campaign for a subscription based product. We look at different parameters to check the effectivesness of the campaign while also looking to find anormalities and improvements we can make to it.
+In this notebook we analyze a marketing campaign for a subscription based product. We look at different factors to check the effectivesness of the campaign while also looking to find anormalities and improvements we can make to it.
 
 ## Data source
 
