@@ -43,7 +43,7 @@ Badge [source](https://shields.io/)
 
 ## Business problem
 
-In this notebook we analyze a marketing campaign for a subscription based product. We look at different parameters to check the effectivesness of the campaign while also looking to find anormalities and improvements we can make to it.
+In this notebook we analyze a marketing campaign for a subscription based product. We look at different factors to check the effectivesness of the campaign while also looking to find anormalities and improvements we can make to it.
 
 ## Data source
 
@@ -228,17 +228,6 @@ Video to gif [tool](https://ezgif.com/)
 ## Contribution
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or contribute.
-
-## Blog post
-
-The accompanying blog post for this project can be found [here](https://semasuka.github.io/blog/2022/10/12/credit-card-approval-prediction.html)
-
-## Project featuring
-
-This project was featured on [Luke Barousse Youtube Channel](https://www.youtube.com/c/LukeBarousse), Click on the thumbnail to watch the video
-
-[![IMAGE_ALT](https://img.youtube.com/vi/5Q0gB7imNOo/0.jpg)](https://www.youtube.com/watch?v=5Q0gB7imNOo&t=222s)
-
 
 ## License
 
