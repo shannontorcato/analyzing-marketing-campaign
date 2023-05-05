@@ -64,6 +64,24 @@ In this notebook we analyze a marketing campaign for a subscription based produc
 - numpy (mathematical operation on arrays)
 - matplotlib (data visuaization)
 
+## Analysis
+
+1. **Overall performance of the campaign**: We can analyze the number of conversions, retention rates, and cancellations to understand how successful the campaign was. We can also calculate key performance indicators such as conversion rate, retention rate, and churn rate.
+
+2. **Performance by marketing channel**: We can analyze how each marketing channel performed in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each channel.
+
+3. **Performance by variant**: We can analyze how the personalization variant performed compared to the control group in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each variant.
+
+4. **Performance by language**: We can analyze how each language performed in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each language.
+
+5. **Performance by age group**: We can analyze how each age group performed in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each age group.
+
+6. **Performance by day of week**: We can analyze how the campaign performed on each day of the week in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each day of the week.
+
+7. **Performance by subscribing channel**: We can analyze how each subscribing channel performed in terms of conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for each subscribing channel.
+
+8. **Correct language displayed**: We can analyze how displaying the correct language affected conversions, retention, and cancellations. We can also calculate conversion rates and retention rates for the correct language displayed.
+
 
 ## Quick glance at the results
 
